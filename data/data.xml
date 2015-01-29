@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Items>
+    <Item Type="europe">
+        <Code>PLN</Code>
+        <Value>1.0</Value>
+        <Description>zloty polski</Description>
+    </Item>
+    <Item Type="world">
+        <Code>USD</Code>
+        <Value>3.33</Value>
+        <Description>dolar amerykanski</Description>
+    </Item>
+    <Item Type="world">
+        <Code>RUB</Code>
+        <Value>0.08</Value>
+        <Description>rubel rosyjski</Description>
+    </Item>
+    <Item Type="world">
+        <Code>MYR</Code>
+        <Value>0.92</Value>
+        <Description>ringgit malezyjski</Description>
+    </Item>
+</Items>
