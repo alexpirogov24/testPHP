@@ -1,33 +1,4 @@
 <?php
-
-
-/*
-
-class MyData {
-
-	private $my_arr;
-	
-	function __construct($data_type)
-	{
-		//конструктор
-	}
-	
-	function GetData() {
-		//вывод массива
-	}
-	
-	function ArrSort($param1) {
-		//сортировка
-	
-		return $sortedArray;
-	}
-
-}
-
-$php_data = new MyData("php");
-$php_data->GetData();
-
-*/
 // ***** функция выбора данных. Конструктор общего массива (php, json, xml) *****
 function data_file($data_type){
 	switch ($data_type) {
@@ -90,7 +61,6 @@ function data_file($data_type){
 	}
 }
 // ***** конец функции выбора данных. Конструктор общего массива (php, json, xml) *****
-
 
 
 // ***** Функция фильтра *****
